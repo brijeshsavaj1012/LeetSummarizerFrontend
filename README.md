@@ -1,4 +1,4 @@
-# React User Data Fetcher
+# Leet Summarizer 
 
 ## Description
 A React app to fetch and display solved leetcode questions with summary data from an API.
