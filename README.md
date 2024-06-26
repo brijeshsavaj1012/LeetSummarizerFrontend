@@ -4,10 +4,6 @@
 A React app to fetch and display solved leetcode questions with summary data from an API.
 ## Installation
 1. Clone the repository:
-    ```sh
-    git clone https://github.com/your-username/react-user-data-fetcher.git
-    cd react-user-data-fetcher
-    ```
 
 2. Install dependencies:
     ```sh
