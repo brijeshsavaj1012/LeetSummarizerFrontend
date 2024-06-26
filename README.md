@@ -24,5 +24,5 @@ A React app to fetch and display solved leetcode questions with summary data fro
 - **UserData.css:** Styling for the components.
 
 ## API Integration
-- Fetch data with POST request to `https://api.example.com/data](https://leet-summarizer-server-zznx.vercel.app/showbyid`
+- Fetch data with POST request to `https://leet-summarizer-server-zznx.vercel.app/showbyid`
 
